@@ -1,5 +1,9 @@
 # Dip-buy mean reversion bot — btc-race-24h-20261117-0603
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/mattxzte/btc-race-24h-01/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/mattxzte/btc-race-24h-01/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 A bot that trades Coinbase Wrapped BTC (cbBTC) against USDC, one minute at a
 time, in the make.fun bars replay. It starts with 1,000 USDC of paper money,
 goes long only, and never uses leverage.
@@ -32,3 +36,7 @@ node main.ts
 - `main.ts` — the bot: the slow-level rule and the protocol loop
 - `vendor/makefun-bars.ts` — the kit's protocol shim, copied byte for byte
 - `.makefun/owner.json` — the wallet that owns this entry
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nv10mx49&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
